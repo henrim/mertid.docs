@@ -1,3 +1,27 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Sass
+.sass-cache
+
+# Grunt
+.grunt
+build
+dist
+node_modules
+*.log
+
+/_site
+
+config.codekit
+Gemfile.lock

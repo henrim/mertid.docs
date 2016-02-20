@@ -1,2 +1,28 @@
-name: Mertid Dokumentasjon
+title: "Mertid Dokumentasjon"
+permalink: pretty
 markdown: kramdown
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+highlighter: pygments
+
+top_level_sections:
+    - Introduksjon
+    - Føre avtaler
+    - Kunder & kontrakter
+    - Rettigheter
+    - FAQ
+
+latest_versions:
+    server: 3.4.0
+    dotnet-api: 3.3.1
+    http-api: 3.4.0
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            exclude_from_sidebar: false
+            layout: "docs"
+            pinned: false
