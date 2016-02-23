@@ -32,9 +32,6 @@ Du kan definere dine egne koder eller redigere de eksisterende:
 | {{page.menu}} | {{page.permission}} |
 
 
-
-Se [denne linken](ikke_fakturerbare)
-
 <div class="note--warning" markdown="1">
 Se [denne linken](ikke_fakturerbare) for hvordan du skal føre timer som ikke skal faktureres
 </div>
