@@ -1,6 +1,9 @@
 title: "Mertid Dokumentasjon"
 permalink: pretty
 markdown: kramdown
+kramdown: 
+    input: GFM
+
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
@@ -8,7 +11,7 @@ highlighter: pygments
 
 top_level_sections:
     - Introduksjon
-    - Føre avtaler
+    - Avtaler
     - Kunder & kontrakter
     - Rettigheter
     - FAQ

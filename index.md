@@ -8,6 +8,9 @@ en løsning for å hente avtaler fra kalenderen din og benytte dette
 til timeføring og fakturering.
 </p>
 
+
+
+
 ## FAQ
 
 ### Bruker
@@ -17,7 +20,7 @@ til timeføring og fakturering.
 ### Admin
 
 
-### Getting Started Series
+### Kom igang med Mertid
 
 - [Part 1: Introduction](https://geteventstore.com/blog/20130220/getting-started-part-1-introduction/)
 - [Part 2: Implementing the CommonDomain repository interface](https://geteventstore.com/blog/20130220/getting-started-part-2-implementing-the-commondomain-repository-interface/)
