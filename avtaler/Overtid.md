@@ -12,8 +12,9 @@ Skriv antallet timer du vil fakturere direkte etter mertid i plasseringsfeltet:
 
 <p class="note" markdown="1">
 Plassering: _mertid10_ 
-10 timer vil faktureres kunden basert på kontraktens regler.
 </p>
+10 timer vil faktureres kunden basert på kontraktens regler.
+
 
 
 Se [Standardartikkel](Standardartikkel) for detaljer om hvilken timepris som vil benyttes.
