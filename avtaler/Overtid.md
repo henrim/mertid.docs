@@ -10,7 +10,7 @@ For å unngå overtidsberegning kan du gjøre følgende rett i avtalen:
 
 Skriv antallet timer du vil fakturere direkte etter mertid i plasseringsfeltet:
 
-<p class="note--success" markdown="1">
+<p class="note" markdown="1">
 Plassering: _mertid10_ 
 10 timer vil faktureres kunden basert på kontraktens regler.
 </p>
