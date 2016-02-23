@@ -22,6 +22,6 @@ For å benytte kalenderen din som timeregistrering trenger du kun å følge tre 
 
 Se [denne linken](ikke_fakturerbare)
 
-<p class="note--warning">
+<p class="note--warning" markdown="1">
 Se [denne linken](ikke_fakturerbare.md) for hvordan du skal føre timer som ikke skal faktureres
 </p>
