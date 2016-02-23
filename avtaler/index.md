@@ -2,35 +2,25 @@
 title: "Føre avtaler"
 layout: "docs"
 section: "Avtaler"
+permission: "Konfigurasjon"
+menu: "Innstillinger - Avtalekoder"
 ---
 
 For å benytte kalenderen din som timeregistrering trenger du kun å følge tre enkle punkter:
-
-
-1. Legg til koden _mertid_ i feltet plassering på avtalen:
-
 ![Avtale med plassering](img/avtale.png)
 
+1. Skriv inn kunde-/kontraktnavn i Emnefeltet
 
-2. Skriv inn kundenavn i Emnefeltet:
+2. Legg til koden _mertid_ i feltet plassering på avtalen
 
-!
-
-3. 
-
-Mertid vil selv finne ut om dette er en ny eller endret avtale og vil vise alle endringer:
-![Avtalen hentet inn til Mertid](img/avtale_hentet_2.png)
+3. Beskriv hva som er utført i selve avtaleteksten
 
 
 
 
 
 
-plved bli til en avtlae i MErtid når du har ført rett kode på rett sted.
-Somu tSe videoen hvordan føre avtaler i Mertid baserer seg på at man benytter kalenderen til å holde orden 
 
-
-
-
-
-
+<p class="note--warning">
+Se [denne linken](./ikke_fakturerbare/) for hvordan du skal føre timer som ikke skal faktureres
+</p>
