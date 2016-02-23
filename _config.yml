@@ -1,4 +1,5 @@
 title: "Mertid Dokumentasjon"
+baseurl: /mertid.docs
 permalink: pretty
 markdown: kramdown
 kramdown: 
