@@ -26,10 +26,15 @@ Som standard er følgende hashtags definert i Mertid:
 Du kan definere dine egne koder eller redigere de eksisterende:
 
 
-|Menyvalg:   |{{page.menu}}|
-|Rettighet:  |{{page.permission}}|
+
+| Menyvalg      | Rettighet           |
+|---------------|---------------------|
+| {{page.menu}} | {{page.permission}} |
 
 
-<p class="note--warning">
-Se [denne linken](ikke_fakturerbare.md) for hvordan du skal føre timer som ikke skal faktureres
-</p>
+
+Se [denne linken](ikke_fakturerbare)
+
+<div class="note--warning">
+Se [denne linken](ikke_fakturerbare) for hvordan du skal føre timer som ikke skal faktureres
+</div>

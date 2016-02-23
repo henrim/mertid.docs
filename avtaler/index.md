@@ -4,6 +4,7 @@ layout: "docs"
 section: "Avtaler"
 permission: "Konfigurasjon"
 menu: "Innstillinger - Avtalekoder"
+pinned: true
 ---
 
 For å benytte kalenderen din som timeregistrering trenger du kun å følge tre enkle punkter:
@@ -19,8 +20,8 @@ For å benytte kalenderen din som timeregistrering trenger du kun å følge tre 
 
 
 
-
+Se [denne linken](ikke_fakturerbare)
 
 <p class="note--warning">
-Se [denne linken](./ikke_fakturerbare/) for hvordan du skal føre timer som ikke skal faktureres
+Se [denne linken](ikke_fakturerbare.md) for hvordan du skal føre timer som ikke skal faktureres
 </p>

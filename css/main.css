@@ -11,6 +11,11 @@
     font-family: Roboto;    
     font-size: 18pt;
 }
+
+img + em {
+    display: block;
+    color: gray;
+}
 @media (min-width: 720px) {
     .inner-container {
         padding: 0 1.5rem;

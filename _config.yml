@@ -1,6 +1,6 @@
 title: "Mertid Dokumentasjon"
 baseurl: /mertid.docs
-permalink: pretty
+#permalink: pretty
 markdown: kramdown
 kramdown: 
     input: GFM

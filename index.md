@@ -9,6 +9,11 @@ til timeføring og fakturering.
 </p>
 
 
+### Kom igang med Mertid
+
+- [Part 1: Introduksjon](avtaler/)
+
+
 
 
 ## FAQ
@@ -17,14 +22,6 @@ til timeføring og fakturering.
 - [Part 1: Introduction](https://geteventstore.com/blog/20130220/getting-started-part-1-introduction/)
 
 
-### Admin
-
-
-### Kom igang med Mertid
-
-- [Part 1: Introduction](https://geteventstore.com/blog/20130220/getting-started-part-1-introduction/)
-- [Part 2: Implementing the CommonDomain repository interface](https://geteventstore.com/blog/20130220/getting-started-part-2-implementing-the-commondomain-repository-interface/)
-- [Part 3: Subscriptions](https://geteventstore.com/blog/20130306/getting-started-part-3-subscriptions/)
 
 ## Videos
 

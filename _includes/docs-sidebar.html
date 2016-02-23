@@ -36,10 +36,10 @@
                     {% assign normalItems = version.items | where:"pinned", false | sort: "title" %}
 
                     {% for item in pinnedItems %}
-                        <li><a href="{{ item.url }}">{{ item.title }}</a>
+                        <li><a href="{{ item.url | prepend:site.baseurl }}">{{ item.title }}</a>
                     {% endfor %}
                     {% for item in normalItems %}
-                        <li><a href="{{ item.url }}">{{ item.title }}</a>
+                        <li><a href="{{ item.url| prepend:site.baseurl }}">{{ item.title }}</a>
                     {% endfor %}
                     </ul>
                 </li>
