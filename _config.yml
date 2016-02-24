@@ -8,7 +8,7 @@ kramdown:
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
-highlighter: pygments
+highlighter: rouge
 
 top_level_sections:
     - Introduksjon
