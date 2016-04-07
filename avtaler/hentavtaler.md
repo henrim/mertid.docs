@@ -7,7 +7,12 @@ menu: "Innstillinger - Konfigurasjon"
 ---
 
 Når du henter avtaler fra konsulentenes kalender kan du sette hvor mange dager bakover i tid Mertid skal hente avtaler for.
-Bare avtaler som er lagt til eller endret senere enn dagens dato - antall dager vil hentes inn.
+
+Bare avtaler som er lagt til eller endret senere enn
+
+`dagens dato - antall dager `
+
+vil hentes inn.
 
 Du setter disse dagene ved å sette verdien Avtaler_HentAntallDager:
 
@@ -17,7 +22,7 @@ Du setter disse dagene ved å sette verdien Avtaler_HentAntallDager:
 
 *Dersom du har rettigheter til det.*
 
-Vi anbefaler å sette den til 32.
+Vi anbefaler å sette den til __32__.
 Da får du alltid siste måneds avtaler oppdatert.
 
 Benytt den i kombinasjon med [låsing av Periode](periode) så vil du kun hente avtaler for inneværende måned.

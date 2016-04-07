@@ -15,9 +15,6 @@ men setter perioden låst frem til den 1. i inneværende måned.
 Mertid vil da gjennom hele måneden kun hente fra låsingsdato (1. i måneden) og frem til dagens dato.
 
 
-Dersom du har behov for å hente avtaler bak låsingperiode f.eks for å hente inn oppdarte avtaler etter fakturering fordi en konsulent hadde glemt en timeføring e.l. så kan du 
-justere låsingsperioden lenger tilobake for å plukke opp endringen. Hente avtalene også sette låsingsperioden tilbake igjen.
-
 Gå til:
 
 | Menyvalg      | Rettighet           |
@@ -27,3 +24,13 @@ Gå til:
 *Dersom du har rettigheter til det.*
 
 Velg dato og trykk Lås periode
+![Lås periode](img/lock_period.png)
+
+
+##Låse opp perioden igjen
+
+Dersom du har behov for å hente avtaler tilbake før låst periode så er det mulig.
+Det kan f.eks være for å hente inn oppdaterte avtaler etter fakturering fordi en konsulent hadde glemt en timeføring.
+
+Du står fritt til å endre Låse periode lenger tilbake i tid og så trykke Lås periode på nytt.
+Du bør da hente oppdatere avtaler og så sette Låseperioden tilbake til korrekt verdi. 
