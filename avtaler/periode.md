@@ -27,7 +27,7 @@ Velg dato og trykk Lås periode
 ![Lås periode](img/lock_period.png)
 
 
-##Låse opp perioden igjen
+##Låse opp perioden igjen##
 
 Dersom du har behov for å hente avtaler tilbake før låst periode så er det mulig.
 Det kan f.eks være for å hente inn oppdaterte avtaler etter fakturering fordi en konsulent hadde glemt en timeføring.
