@@ -13,8 +13,8 @@ highlighter: rouge
 top_level_sections:
     - Introduksjon
     - Avtaler
-    - Kunder & kontrakter
-    - Rettigheter
+    - Ordrer
+    - Innstillinger
     - FAQ
 
 latest_versions:

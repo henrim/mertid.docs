@@ -1,5 +1,5 @@
 ---
-title: "Føre avtaler"
+title: "Innhold"
 layout: "docs"
 section: "Avtaler"
 permission: "Konfigurasjon"
@@ -7,18 +7,23 @@ menu: "Innstillinger - Avtalekoder"
 pinned: true
 ---
 
-For å benytte kalenderen din som timeregistrering trenger du kun å følge tre enkle punkter:
-![Avtale med plassering](img/avtale.png)
 
-1. Skriv inn kunde-/kontraktnavn i Emnefeltet
+## Føre avtaler
+Avtaler føres i din kalender på vanlig vis. 
+Mertid plukker opp alle avtalene dine og henter fakturerbare og ikke-fakturerbare avtaler. 
 
-2. Legg til koden _mertid_ i feltet plassering på avtalen
-
-3. Beskriv hva som er utført i selve avtaleteksten
-
-* Gratulerer! Du har nå ført en avtale ferdig til Mertid.
+#### Fakturerbare avtaler
+[Føre avtaler](avtaler)
 
 
-<p class="note--warning" markdown="1">
-Se [denne linken](ikke_fakturerbare) for hvordan du skal føre timer som ikke skal faktureres
-</p>
+#### Ikke fakturerbart
+[Føre ikke-fakturerbare avtaler](ikke_fakturerbare)
+
+
+
+## Konfigurasjon
+Du kan konfigurere Mertids virkemåte på forskjelige måter:
+
+- [Antall dager](../innstillinger/konfigurasjon/antall_dager) 
+- [Endre startdato/låseperiode](../ordrer/periode)
+- [Koder for ikke-fakturerbare avtaler](hashtags)

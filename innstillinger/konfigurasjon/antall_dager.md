@@ -1,7 +1,7 @@
 ---
-title: "Konfigurasjon: Hent avtaler for X antall dager"
+title: "Hent avtaler for X antall dager"
 layout: "docs"
-section: "Avtaler"
+section: "Innstillinger"
 permission: "Konfigurasjon"
 menu: "Innstillinger - Konfigurasjon"
 ---
@@ -25,4 +25,4 @@ Du setter disse dagene ved å sette verdien Avtaler_HentAntallDager:
 Vi anbefaler å sette den til __32__.
 Da får du alltid siste måneds avtaler oppdatert.
 
-Benytt den i kombinasjon med [låsing av Periode](periode) så vil du kun hente avtaler for inneværende måned.
+Benytt den i kombinasjon med [låsing av Periode](../../ordrer/periode) så vil du kun hente avtaler for inneværende måned.
