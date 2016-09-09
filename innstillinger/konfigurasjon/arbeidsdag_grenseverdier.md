@@ -38,5 +38,8 @@ Verdienes mening (heltall):
 
 Relaterte instillinger:
 
--	[Sett antall timer for en normal arbeidsdag]()
--	[Sett oppdeling av arbeidstime]()
+<p class="note--warning" markdown="1">
+Se [denne linken](arbeidstimer_per_dag) for å definere antall timer for en arbeidsdag.
+<br>
+Du kan ogå sette [time inndelingen](time_inndeling).
+</p>

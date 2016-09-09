@@ -12,3 +12,5 @@ pinned: true
 -	Konfigurasjon
 	-	[Hent avtaler for X antall dager](konfigurasjon/antall_dager)
 	-	[Endre grenseverdier for arbeidsdager](konfigurasjon/arbeidsdag_grenseverdier)
+	-   [Sett oppdeling av en arbeidstime](konfigurasjon/time_inndeling)
+    -   [Sett time inndelingen](konfigurasjon/time_inndeling)
