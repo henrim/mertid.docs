@@ -1,5 +1,5 @@
 ---
-title: "Definer antall arbeidstimer på en arbeidsdag"
+title: "Definer antall arbeidstimer per arbeidsdag"
 layout: "docs"
 section: "Innstillinger"
 permission: "Konfigurasjon"

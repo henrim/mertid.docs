@@ -14,3 +14,4 @@ pinned: true
 	-	[Endre grenseverdier for arbeidsdager](konfigurasjon/arbeidsdag_grenseverdier)
 	-   [Sett oppdeling av en arbeidstime](konfigurasjon/time_inndeling)
     -   [Sett time inndelingen](konfigurasjon/time_inndeling)
+    -   [Velg beregnet helligdager basert på land](konfigurasjon/helligdager_land)
