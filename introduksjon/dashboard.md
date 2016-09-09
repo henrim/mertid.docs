@@ -43,5 +43,5 @@ Mertid benytter seg av følgende fargekoder:
 <p class="note--warning" markdown="1">
 Se [denne linken](../avtaler/avtaler) for hvordan du skal føre timer, eller [denne linken](../avtaler/ikke_fakturerbare) for hvordan du skal føre ikke-fakturerbare timer.
 <br>
-Konsulentledere kan justere grensene for fargekodene, se [denne linken]().
+Konsulentledere kan justere grenseneverdiene for fargeindikatorene, se [denne linken](../innstillinger/konfigurasjon/arbeidsdag_grenseverdier).
 </p>
