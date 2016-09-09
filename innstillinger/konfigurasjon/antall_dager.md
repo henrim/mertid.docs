@@ -1,7 +1,7 @@
 ---
 title: "Hent avtaler for X antall dager"
 layout: "docs"
-section: "Innstillinger"
+section: "Konfigurasjon"
 permission: "Konfigurasjon"
 menu: "Innstillinger - Konfigurasjon"
 ---
