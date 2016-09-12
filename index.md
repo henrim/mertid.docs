@@ -12,6 +12,7 @@ layout: docs
 
  - [Introduksjon](introduksjon/)
  - [Avtaler](avtaler/)
+ - [Kunder & kontrakter](kunder/)
  - [Ordrer](ordrer/)
  - [Instillinger](instillinger/)
  - [FAQ](faq/)
