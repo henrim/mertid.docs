@@ -1,5 +1,5 @@
 ---
-title: "Dashboard"
+title: "Konsulent Dashboard"
 layout: "docs"
 section: "Introduksjon"
 permission: "Bruker"
