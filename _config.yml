@@ -13,6 +13,7 @@ highlighter: rouge
 top_level_sections:
     - Introduksjon
     - Avtaler
+    - Kunder
     - Ordrer
     - Innstillinger
     - FAQ
