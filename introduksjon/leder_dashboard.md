@@ -8,19 +8,21 @@ menu: "Hjem"
 
 ![](img/konsulentleder_dashboard.png)
 
-Dette er ditt dashboard som konsulentleder, hvor du raskt får en oversikt over hvordan det har gått denne måndeden.
+Dette er hoveddashboardet som vises når du logger inn som konsulentleder. Dashboardet er ment å gi en kjapp oversikt over status for de viktigste tallene i perioden.
 
 | Menyvalg      | Rettighet           |
 |---------------|---------------------|
 | {{page.menu}} | {{page.permission}} |
 
+
+
 ---------
 
 ![](img/avtale_rapport.png)
 
-#### Budjsett oversikt
+#### Resultat
 
-Mertid viser nåværende budsjett og antall timer for denne måneden.
+Mertid viser nåværende resultat og antall fakturerbare timer denne måneden.
 
 Trykk på en av rutene for å få [detaljert oversikt]() over måneden.
 
@@ -30,10 +32,10 @@ Trykk på en av rutene for å få [detaljert oversikt]() over måneden.
 
 #### Oversikt avtaler
 
-I den første ruten, viser Mertid ubehandlede avtaler så langt for denne måneden. Trykker man på ruten, blir man tatt til [oversikt ubehandlete avtaler]().
+Den første ruten, viser ubehandlede avtaler som ikke er matchet mot en kunde.  Trykk på ruten for å matche [ubehandlete avtaler]().
 
-I den andre ruten forteller deg når du siste hentet inn avtaler. Trykker man på oppdateringsikonet, vil alle avtaler fra konsulentene hentes inn i bakgrunnen.
-Du kan også trykke på Oppdater for å se en mer [detaljert visning av innhentingen]().
+Den andre ruten forteller deg når du sist hentet inn avtaler. Trykker man på den vil man starte [henting av nye avtaler]() fra konsulentenes kalender.
+
 
 
 ---------
@@ -43,11 +45,9 @@ Du kan også trykke på Oppdater for å se en mer [detaljert visning av innhenti
 
 #### Ukesoversikt
 
-Her viser Mertid en forenklet oversikt over de siste syv dagene og hvor man ligger på ukesbasis.
+Her viser Mertid en oversikt over utfaktureringsgrad og beløp de siste syv dagene.
 
-Søylediagrammet er basert på inntekt per dag for alle aktive konsulenter. 
-
-Den gule linjen er gjennomsnittlig opptjent sum over de siste dagene.
+De blå søylene er inntjent beløp, mens den gule linjen er faktureringsgrad de siste dagene.
 
 <p class="note--warning" markdown="1">
 Se [Avtaler - Oversikt](../avtaler/avtaler), for en oversikt over antall timer per konsulent og kunde. 

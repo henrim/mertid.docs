@@ -7,7 +7,7 @@ menu: "Mitt Dashboard"
 ---
 [comment]: Resize bilder - http://stackoverflow.com/a/14747656
 
-Her vil du kunne se over ditt budsjett, din kalender, dine avtaler og kontrakter.
+Dashboardet er laget for å kjappest mulig gi deg oversikt over din status.
 
 ![](img/dashboard_overview.png)
 
@@ -15,14 +15,20 @@ Her vil du kunne se over ditt budsjett, din kalender, dine avtaler og kontrakter
 
 ![](img/budsjett.png)
 
-#### Budjsett oversikt
+#### Resultat mot budsjett
 
-Mertid viser nåværende budsjett basert på måned og år.
-Du får en indikator på oppnådd budsjett og målet for måneden/året.
+Mertid viser hvordan du ligger an i forhold til ditt budsjett for denne måneden, for året som helhet og for hele Teamet.
 
-Rødt indikerer at du ligger bak budsjettet.
+Vi tar hensyn til hvor langt du er kommet i måneden og året, og vil indikere om du ligger foran eller bak budsjett basert på hvor mange arbeidsdager som er gått og hvor mye du har fakturert. 
 
-Grønn indikerer at du ligger framfor.
+Rødt og pil ned indikerer at du ligger bak budsjettet.
+
+Grønt og pil opp indikerer at du ligger foran budsjett.
+
+I tillegg til dine tall vises det hvordan teamet ditt som helhet presterer, med pil opp for foran og pil ned for bak budsjett.
+
+Det samme kan leses ut av tallene direkte.
+
 
 ----------
 
@@ -43,5 +49,5 @@ Mertid benytter seg av følgende fargekoder:
 <p class="note--warning" markdown="1">
 Se [denne linken](../avtaler/avtaler) for hvordan du skal føre timer, eller [denne linken](../avtaler/ikke_fakturerbare) for hvordan du skal føre ikke-fakturerbare timer.
 <br>
-Konsulentledere kan justere grenseneverdiene for fargeindikatorene, se [denne linken](../innstillinger/konfigurasjon/arbeidsdag_grenseverdier).
+Konsulentledere kan justere grenseverdiene for fargeindikatorene, se [denne linken](../innstillinger/konfigurasjon/arbeidsdag_grenseverdier).
 </p>
