@@ -41,7 +41,7 @@ Kalenderen viser avtaler registrert i Mertid, og indikerer med fargekoder om du 
 Vi benytter følgende fargekoder:
 
  - Grønn: Du har registret nok timer den dagen.
- - Orasje: Du har litt for få registerte timer den dagen.
+ - Oransje: Du har litt for få registerte timer den dagen.
  - Rød: Du har ingen/nesten ingen timer registert den dagen.
  - Lys lilla: Du har ganske mange timer registrert den dagen (sjekk evt dobbeltføring og overtidsbestemmelser)
  - Mørk lilla: Du har veldig mange timer registrert den dagen (sjekk om en eller flere avtaler er ført feil, og pass på at du overholder overtidsbestemmelsene)
