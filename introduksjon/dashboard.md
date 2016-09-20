@@ -15,7 +15,7 @@ Dashboardet er laget for å kjappest mulig gi deg oversikt over din status.
 
 ![](img/budsjett.png)
 
-#### Resultat mot budsjett
+### Resultat mot budsjett
 
 Mertid viser hvordan du ligger an i forhold til ditt budsjett for denne måneden, for året som helhet og for hele Teamet.
 
@@ -34,7 +34,7 @@ Det samme kan leses ut av tallene direkte.
 
 ![](img/kalender.png)
 
-#### Kalender
+### Kalender
 Kalenderen viser avtaler registrert i Mertid, og indikerer med fargekoder om du har ført tilstrekkelig antall timer for hver dag. 
 (Hvis du mangler noen avtaler kan du selv hente inn dine avtaler ved å trykke på ruten Oppdater.)
 
@@ -47,8 +47,8 @@ Vi benytter følgende fargekoder:
  - Mørk lilla: Du har veldig mange timer registrert den dagen (sjekk om en eller flere avtaler er ført feil, og pass på at du overholder overtidsbestemmelsene)
  - Rød sirkel: Dette er en helligdag.
 
-##### Se på avtaler for en dag
-Trykk på dagen du vil vite mer om for å se hvilke avtaler som  som er registrert på deg. Merk at avtaler som ikke er matchet en kontrakt  eller en ikke-fakturerbar kode ikke vil telle med i antall timer ført den dagen. Tilsvarende vil avtaler som har feil kode heller ikke komme inn og vises. Det svarer seg derfor og sjekke alle oransje og røde dager mot din kalender for å se at du har fått hentet inn alle dine avtaler. 
+#### Se på avtaler for en dag
+Trykk på dagen du vil vite mer om for å se hvilke avtaler som er registrert på deg. Merk at avtaler må være matchet en kontrakt eller ikke-fakturerbar kode for å telle med i antall timer den dagen. Det svarer seg derfor å sjekke alle oransje og røde dager mot din kalender for å se at du har fått hentet inn alle dine avtaler. 
 Når du har gjort eventuelle justeringer i din kalender kan du trykke Oppdater i Mertid og vi vil hente inn dine siste endringer.
 
 <p class="note--warning" markdown="1">
