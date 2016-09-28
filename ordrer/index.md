@@ -7,4 +7,8 @@ menu: "Innstillinger - Konfigurasjon"
 pinned: true
 ---
 
-### Innhold
+![](img/ordre_oversikt.png)
+
+ - [Opprett ordrer](ny_ordre)
+    - [Låsing av periode](periode)
+ - [Ordrer i behandling](ordre_i_behandling)
